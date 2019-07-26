@@ -1,0 +1,4 @@
+React is library, Angular is a framework 
+React is faster than angular. React has 2 dom - virtual(which element we have to manipulate and 
+find out the shortest path to the specific element and start the manipulation process over the actual DOM) and real
+
